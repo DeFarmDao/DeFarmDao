@@ -17,3 +17,5 @@
 🗣 SnapShot:https://snapshot.org/#/defarmdao.eth
 
 🗣 Discord: https://discord.gg/28nmx7cgae
+
+🗣 Gitbook : https://defarmdao.gitbook.io/
