@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![logo576x576](https://user-images.githubusercontent.com/108944687/179890736-14dcce3c-8a2a-48e2-8d00-aba6f5a5d170.png)
 
+![DeFarm Logo 576](https://user-images.githubusercontent.com/108944687/180884672-bf1250e5-d711-409b-a924-9d7c9f7a6440.png)
 
 
 
